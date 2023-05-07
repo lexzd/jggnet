@@ -1,3 +1,6 @@
+{
+"sites": [
+
 {"key":"Tutu_spider","name":"坚果影视1（20230507更新）","api":"csp_TutuYs","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"vWXYqNnHMMilWZLtSRK#t0MIw5IARrcMqiaojiChinJ9S7o6sYmMVW"},
 
 {"key":"YQK_spider","name":"坚果影视2（20230507更新）","api":"csp_YQKAPP","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"https://api-aws.11ty.top"},
