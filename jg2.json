@@ -1,6 +1,6 @@
 {
-//	"spider": "http://cdn.qiaoji8.com/fix2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01",
-//	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
+	"spider": "http://cdn.qiaoji8.com/fix2354.jar;md5;6c68e5f9757d1c0e4d5dd966a4adaa01",
+	"wallpaper": "http://www.kf666888.cn/api/tvbox/img",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
